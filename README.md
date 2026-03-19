@@ -1,6 +1,6 @@
 # 日常总结 / Daily Summary
 
-[English](#english) | [中文](#中文)
+[中文](#中文) | [English](#english)
 
 ---
 
